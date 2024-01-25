@@ -17,8 +17,6 @@ for i in range(num_friends):
     print("Your Best Friend is {}" + friends[0])
     print("Your Least Friend is {}" + friends[-1])
 
-# note: originally i didn't havethe {} but stupid google put a AI generating thing on the seach results.
-# It said this was better, but just wanted to note this. I turned it off for future.
 # Create a loop to print out the entire list of friends:
     for friend in friends:
     print(friend)
